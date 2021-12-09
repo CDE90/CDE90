@@ -4,6 +4,9 @@
 - 📫 How to reach me: On discord `cde#4572`
 - Developer for the VC Roles Discord Bot - over 4500 servers
 
+![](https://github.com/cde90/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/cde90/github-stats/blob/master/generated/languages.svg)
+
 <!---
 CDE90/CDE90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
