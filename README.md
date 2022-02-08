@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CDE90
 - 👀 I’m interested in discord bots.
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript & React
 - 📫 How to reach me: On discord `cde#4572`
 - Developer for the VC Roles Discord Bot - over 5000 servers
 
