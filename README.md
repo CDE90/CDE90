@@ -2,7 +2,7 @@
 - 👀 I’m interested in discord bots.
 - 🌱 I’m currently learning JavaScript & React
 - 📫 How to reach me: On discord `cde#4572`
-- Developer for the VC Roles Discord Bot - over 5000 servers
+- Developer for the VC Roles Discord Bot - over 7000 servers
 
 <!---
 CDE90/CDE90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
