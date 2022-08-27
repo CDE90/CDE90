@@ -37,12 +37,6 @@
 
 ###
 
-<br clear="both">
-
-<img href="https://cde90.github.io/CDE90/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/CDE90/count.svg?"  />
 </div>
