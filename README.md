@@ -2,6 +2,21 @@
 
 ###
 
+- 🌱 I’m currently improving my TypeScript/JavaScript knowledge
+- 👀 I want to learn Rust for high performance backends & because it has a lot of nice features
+- 📫 The best way to reach me is by email ethan@ethancoward.dev
+- 🐍 I'm most confident in using python
+- 🌟 My current favourite language is TypeScript
+
+###
+
+Some things I've done:
+- [VC Roles discord bot](https://github.com/CDESamBotDev/VCRoles) - written in python using discord.py with a redis database
+- [Message app](https://github.com/CDE90/msg-translation-app) - unfinished project written in TypeScript using Next.js among other packages with a mongo database (first look at web development). 
+- [Polling app](https://github.com/CDE90/poll-app) - work in progress written in TypeScript and again using Next.js with the [t3 stack](https://github.com/t3-oss/create-t3-app).
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&username=CDE90" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&username=CDE90" height="150" alt="languages graph"  />
