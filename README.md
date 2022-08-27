@@ -39,7 +39,7 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/CDE90/CDE90/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://cde90.github.io/CDE90/snake.svg" alt="Snake animation" />
 
 ###
 
