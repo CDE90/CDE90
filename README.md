@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ethan and I'm a student, from England.</h2>
+<h2 align="left">Hi 👋! My name is Ethan and I'm a student from England.</h2>
 
 ###
 
@@ -39,7 +39,7 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/CDE/CDE/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/CDE90/CDE90/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
