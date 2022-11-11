@@ -13,7 +13,7 @@
 Some things I've done:
 - [VC Roles discord bot](https://github.com/CDE90/VCRoles) - written in python using discord.py with a postgres database
 - [Message app](https://github.com/CDE90/msg-translation-app) - unfinished project written in TypeScript using Next.js among other packages with a mongo database (first look at web development). 
-- [Polling app](https://github.com/CDE90/poll-app) - work in progress written in TypeScript and again using Next.js with the [t3 stack](https://github.com/t3-oss/create-t3-app).
+- [Polling app](https://github.com/CDE90/poll-app) - Written in TypeScript and again using Next.js with the [t3 stack](https://github.com/t3-oss/create-t3-app).
 
 ###
 
