@@ -36,12 +36,5 @@ Check out my [personal website](https://ethancoward.dev/)
 ---
 
 <div align="center">
-  <img src="https://stats.ethancoward.dev/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&username=CDE90" height="150" alt="stats graph"  />
-  <img src="https://stats.ethancoward.dev/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&username=CDE90" height="150" alt="languages graph"  />
-</div>
-
----
-
-<div align="center">
   <img src="https://profile-counter.glitch.me/CDE90/count.svg?"  />
 </div>
